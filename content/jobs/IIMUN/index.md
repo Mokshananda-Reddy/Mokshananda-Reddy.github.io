@@ -1,13 +1,12 @@
 ---
 date: '1'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+title: 'Support Division Team Leader'
+company: 'Indian International MUN (IIMUN)'
 location: remote
-range: 'June 2021 - July 2021'
+range: 'June 2017 - July 2018'
 url: ''
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Provied Necessary support for hosting IIMUN Conference in different schools/universities.
+- Collecting and providing requriments to the needed divisions throughout the event. Also providing information on how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
+- Achieved Best Supportive Leader for good co-ordination and assistance during the event.
