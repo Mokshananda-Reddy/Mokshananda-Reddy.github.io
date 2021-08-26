@@ -2,10 +2,10 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
+  "author": "Mokshananda Reddy <Mokshananda.Reddy@iiitb.ac.in>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
+    "url": "https://github.com/Mokshananda-Reddy/Mokshananda-Reddy.github.io"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +18,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "husky": {
     "hooks": {
