@@ -1,13 +1,14 @@
 ---
-date: '2020-02-12'
-title: 'Alarm Clock'
-github: 'https://github.com/yashitanamdeo/AlarmClock'
-external: ''
+date: '1'
+title: 'Animated Music Video'
+github: ''
+external: 'https://youtu.be/j6tEF8qtNOI'
 tech:
-  - Python
-  - Tkinter
+  - Sony Vegas Pro 16
+  - Twixter Pro
+  - Red Bullet
 company: ''
 showInProjects: true
 ---
 
-This alarm clock is a simple clock with a function that can be activated to ring at a time set in advance.
+This is an animated music video. Just me for fun hope its to your liking. If so smash that like button, comment, share and subscribe for more.
