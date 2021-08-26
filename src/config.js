@@ -27,7 +27,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: '',
+      url: 'https://www.instagram.com/mokshananda.reddy/',
     },
     {
       name: 'Twitter',
