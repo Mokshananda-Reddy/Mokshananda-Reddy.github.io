@@ -1,10 +1,10 @@
 ---
-date: '2021-06-11'
+date: '1'
 title: 'Campus Ambassador Intern'
 company: 'International MUN (IMUN)'
 location: remote
 range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+url: ''
 ---
 
 - Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.

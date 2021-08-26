@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2020-10-14'
 title: 'Animated Music Video'
 github: ''
 external: 'https://youtu.be/j6tEF8qtNOI'

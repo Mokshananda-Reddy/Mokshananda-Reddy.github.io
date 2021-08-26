@@ -1,5 +1,5 @@
 ---
-title: 'Hello, my name is'
+title: 'Hello, My Name Is'
 name: 'Mokshananda Reddy'
 subtitle: 'I love exploring new things and Interested in Animation and Related stuff!'
 buttonText: 'Get In Touch'

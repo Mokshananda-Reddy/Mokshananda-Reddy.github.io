@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2019-12-05'
 title: 'GUI Based Car Racing Game'
 cover: 'demo1.png'
 github: 'https://github.com/Mokshananda-Reddy/GUI-Based-Car-Racing-Game'
