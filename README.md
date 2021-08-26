@@ -5,11 +5,11 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://Mokshananda-Reddy.github.io/" target="_blank">Mokshananda-Reddy Namdeo's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://Mokshananda-Reddy.github.io/" target="_blank"> Mokshananda-Reddy's </a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/Mokshananda-Reddy/Mokshananda-Reddy.github.io/blob/source/src/images/demo.png" />
+  <img alt="Demo" src=https://github.com/Mokshananda-Reddy/Mokshananda-Reddy.github.io/blob/main/src/images/demo.png />
 </div>
 
 ### TL;DR
