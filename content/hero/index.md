@@ -5,6 +5,6 @@ subtitle: 'I love exploring new things and Interested in Animation and Related s
 buttonText: 'Get In Touch'
 ---
 
-I'm currently a Third Year Computer Science Engineering Student at IIIT Banglore. Primarily interested in Graphics, Digital Art, Animation and Data Science.
+I'm currently a Third Year Computer Science Engineering Student at IIIT Banglore. Primarily interested in Graphics, Digital Art, Animation and Related Stuff!!
 
 I enjoy learning new skills and implementing them in real life!
