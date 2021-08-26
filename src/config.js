@@ -1,38 +1,37 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Mokshananda Reddy',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
-  siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Mokshananda Reddy is a student of IIIT Banglore, based in India, who loves learning new things and explore many other fields.',
+  siteKeywords: 'Mokshananda Reddy, Mokshananda, mokshanandareddy',
+  siteUrl: 'https://Mokshananda-Reddy.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Mokshananda Reddy ',
+  location: 'Banglore, India',
+  email: 'Mokshananda.Reddy@iiitb.ac.in',
+  github: 'https://github.com/Mokshananda-Reddy',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/Mokshananda-Reddy',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: '',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: '',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: '',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: '',
     },
   ],
 
