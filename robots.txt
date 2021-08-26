@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mokshananda-reddy.github.io/sitemap.xml
+Host: https://mokshananda-reddy.github.io
